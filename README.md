@@ -14,7 +14,7 @@ This repository is organized by concept. Each module contains:
 
 ## Table of Contents
 
-* [**01. Variables & Data Types**](./Variables-and-Data-Types/)
+* [**01. Variables & Data Types**](Variables and Data Types)
 * (More to come...)
 
 ## Connect With Me
