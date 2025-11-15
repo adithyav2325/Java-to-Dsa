@@ -20,4 +20,4 @@ This repository is organized by concept. Each module contains:
 * (More to come...)
 
 ## Connect With Me
-Follow my full journey on [LinkedIn](ttps://www.linkedin.com/in/adithyav2325/).
+Follow my full journey on [LinkedIn] https://www.linkedin.com/in/adithyav2325/.
