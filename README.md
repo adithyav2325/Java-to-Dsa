@@ -14,7 +14,9 @@ This repository is organized by concept. Each module contains:
 
 ## Table of Contents
 
-* [**01. Variables & Data Types**]
+* [**1. Variables & Data Types**]
+* [**2. Operators**]
+* [**3. Conditional Statements**]
 * (More to come...)
 
 ## Connect With Me
