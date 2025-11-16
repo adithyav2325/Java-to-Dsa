@@ -17,6 +17,7 @@ This repository is organized by concept. Each module contains:
 * [**1. Variables & Data Types**]
 * [**2. Operators**]
 * [**3. Conditional Statements**]
+* [**4. Loops**]
 * (More to come...)
 
 ## Connect With Me
