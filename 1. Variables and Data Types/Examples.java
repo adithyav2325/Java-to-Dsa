@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class variable_datatypes {
+public class Examples {
     public static void main(String [] args){
         //Output
         System.out.println("OUTPUT");
