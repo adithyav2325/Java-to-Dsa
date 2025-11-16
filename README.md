@@ -9,7 +9,7 @@ This is a public record of my notes, practice problems, and assignments.
 This repository is organized by concept. Each module contains:
 * `README.md`: My complete theory notes and explanations for the concept.
 * `Examples.java`: Runnable code examples.
-* `PracticeProblems.java`: My solutions to logic-building problems.
+* `Practice.java`: My solutions to logic-building problems.
 * `Assignment.java`: My solutions to the end-of-module assignment.
 
 ## Table of Contents
