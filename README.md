@@ -18,6 +18,8 @@ This repository is organized by concept. Each module contains:
 * [**2. Operators**]
 * [**3. Conditional Statements**]
 * [**4. Loops**]
+* [**5. Functions and Methods**]
+* [**6. Patterns**]
 * (More to come...)
 
 ## Connect With Me
